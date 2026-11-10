@@ -4,13 +4,13 @@
 
 ![підсумок тестів](01_tests.png)
 
-### виклик API і відповідь
+### виклик API на підготовлених демо-даних і відповідь
 
-![виклик API і відповідь](03_api_call1_post-v1-fleet-geofences.png)
+![виклик API на підготовлених демо-даних і відповідь](03_api_call1_get-v1-fleet-incidents.png)
 
-### виклик API і відповідь
+### виклик API на підготовлених демо-даних і відповідь
 
-![виклик API і відповідь](03_api_call2_post-v1-fleet-parquet-export.png)
+![виклик API на підготовлених демо-даних і відповідь](03_api_call2_post-v1-fleet-parquet-export.png)
 
 ### документація API
 
